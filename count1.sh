@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ONE"
+echo "1(ONE)"
